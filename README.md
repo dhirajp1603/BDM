@@ -14,7 +14,7 @@ Explore the treasure trove of resources in this repository:
 
 - **Code**: Dive into the Excel spreadsheets and Python scripts used for data analysis and cleaning. (Python code will be uploaded soon) 🧑‍💻
 - **Data**: Access the raw and cleaned data from Ronak Super Market, ready for exploration and analysis. 📊
-- **Presentation**: View our PowerPoint slides that summarize the key findings, insights, and recommendations. (Will be uploaded soon) 📑
+- **Presentation**: View our PowerPoint slides that summarize the key findings, insights, and recommendations. 📑
 
 ## 🔍 Data Collection and Cleaning
 
