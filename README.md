@@ -68,7 +68,7 @@ Got questions or feedback? We’d love to hear from you!
 
 - **Project Team**: Dhirajkumar Pachling
 - **📧 Email**: dhirajkumarpachling@gmail.com
-- **🔗 LinkedIn**: www.linkedin.com/in/dhirajkumar-pachling-b91a26281
+- **🔗 LinkedIn**: www.linkedin.com/in/dhirajkumar-pachling
 
 Thank you for checking out our project! Your feedback and collaboration are greatly appreciated. Let’s keep the data revolution going! 🤝🚀
 
